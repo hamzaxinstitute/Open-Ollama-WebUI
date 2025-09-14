@@ -6,6 +6,17 @@ A beautiful, modern, and feature-rich web interface for Ollama CLI. Chat with yo
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge&logo=node.js)
 
+## 🚀 Support us on Product Hunt
+
+<a href="https://www.producthunt.com/products/open-ollama-webui?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-open&#0045;ollama&#0045;webui" target="_blank">
+  <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1015896&theme=light&t=1757824649764" 
+       alt="Open-ollama-webui - Open-Ollama-WebUI makes running and exploring local AI models | Product Hunt" 
+       style="width: 250px; height: 54px;" 
+       width="250" height="54" />
+</a>
+
+
+
 ## ✨ Features
 
 - 🎨 **Beautiful Interface** - Clean, modern design with dark/light mode
