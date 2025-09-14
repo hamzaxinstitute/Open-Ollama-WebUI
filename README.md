@@ -15,6 +15,9 @@ A beautiful, modern, and feature-rich web interface for Ollama CLI. Chat with yo
        width="250" height="54" />
 </a>
 
+## 🎥 Watch Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/w_kXIYV-Pdc/0.jpg)](https://youtu.be/w_kXIYV-Pdc)
 
 
 ## ✨ Features
